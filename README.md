@@ -26,9 +26,12 @@ Visualization:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadHW&layout=compact&theme=radical)
 
 
+Contact Me:  
+[![Email](https://img.shields.io/badge/Email-fady9128@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:fady9128@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fady_Wadie-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-wadie-2579b6225)
 
-📫 Contact me: [fady9128@gmail.com]
-🔗 LinkedIn: [Fady Wadie](https://www.linkedin.com/in/fady-wadie-2579b6225)
+
+
 
 
 
