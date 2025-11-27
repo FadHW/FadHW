@@ -9,10 +9,15 @@ I'm currently exploring EDA, NLP, and DeepLearning
 - SQL
 
 ### 🧰 Tools & Libraries
-- Pandas, NumPy, Scikit-learn, TensorFlow
-- Data Visualization: Matplotlib, Seaborn, Plotly, PygWalker
-- Excel, Power BI
-- .NET Framework
+- 🐼 Pandas
+- 🔢 NumPy
+- 🤖 Scikit-learn
+- 🧠 TensorFlow
+- 📊 Data Visualization: Matplotlib, Seaborn, Plotly, PygWalker
+- 📄 Excel
+- 📊 Power BI
+- 💻 .NET Framework
+- 📓 Jupyter Notebook
 
 📫 Contact me: [fady9128@gmail.com]
 🔗 LinkedIn: [Fady Wadie](https://www.linkedin.com/in/fady-wadie-2579b6225)
