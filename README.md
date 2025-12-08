@@ -23,8 +23,6 @@ Visualization:
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) 
 ![PygWalker](https://img.shields.io/badge/PygWalker-000000?style=flat&logoColor=white)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=FadHW&theme=radical)  
-
 
 
 
