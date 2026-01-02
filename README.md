@@ -1,4 +1,7 @@
-# 👨‍💻 I'm Fady Wadie
+
+<p align="center">
+  <img src="images/ao.png" alt="Header Image" width="70%" />
+</p>
 I'm a third-year Electronic Engineering student passionate about **Data Science**, **Data Analysis**
 I'm currently exploring EDA, NLP, and DeepLearning 
 
@@ -21,8 +24,6 @@ Visualization:
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white)]()
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)]()
 [![PygWalker](https://img.shields.io/badge/PygWalker-000000?style=flat&logoColor=white)]()
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadHW&layout=compact&theme=blue-green)
 
 
 Contact Me:  
